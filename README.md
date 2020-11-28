@@ -1,2 +1,2 @@
 # cc64majorlinks
-yes
+catastrophe crow 64 major links
