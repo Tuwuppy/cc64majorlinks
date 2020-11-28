@@ -1,2 +1,2 @@
-# cc64majorlinks.github.io
+# cc64majorlinks
 yes
