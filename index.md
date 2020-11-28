@@ -10,6 +10,8 @@
 
 [Ultra 64 Forever](https://www.youtube.com/channel/UCO-2Rf0scgsJSgSi7hd44Aw)
 
+[Ultra 64 Forever's Twitter](https://twitter.com/64Childhood)
+
 [3D Platformers NZ](https://www.youtube.com/channel/UCVUOthK5dc3KZ5OT6FhkvOQ)
 
 [Discord](https://discord.gg/kUgjbqE)
