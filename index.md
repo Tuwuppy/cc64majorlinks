@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+[The Doc]https://docs.google.com/document/d/18UTSshuwH0MG3TYWHNqdyw4PRpqJltG-PivizkXNlgc/edit
 
-You can use the [editor on GitHub](https://github.com/Tuwuppy/cc64majorlinks.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[N64 Long Lost Lore]https://www.youtube.com/channel/UC9BcJ1GujeYhj5UoctF9sEA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[N64ExcavationMan]https://www.youtube.com/channel/UCVkKDaqgGHQobZ17CtJwC0g
 
-### Markdown
+[90sRetroGamingFRed]https://www.youtube.com/channel/UCf9qOYjD0kmHkuwF3C3zmdg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Childhood Memories 64]https://www.youtube.com/channel/UC2XtkipytiV_iIXVu4KwZwg
 
-```markdown
-Syntax highlighted code block
+[Ultra 64 Forever]https://www.youtube.com/channel/UCO-2Rf0scgsJSgSi7hd44Aw
 
-# Header 1
-## Header 2
-### Header 3
+[3D Platformers NZ]https://www.youtube.com/channel/UCVUOthK5dc3KZ5OT6FhkvOQ
 
-- Bulleted
-- List
+[Discord]https://discord.gg/kUgjbqE
 
-1. Numbered
-2. List
+[Reddit]https://www.reddit.com/r/CatastropheCrow/
 
-**Bold** and _Italic_ and `Code` text
+[crowtools]https://catastrophecrow.github.io/crowtools-web/
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tuwuppy/cc64majorlinks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Ulrich Aderman]https://twitter.com/AdermanUlrich
+(could be a gamejacker)
