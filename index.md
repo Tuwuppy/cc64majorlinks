@@ -14,7 +14,7 @@
 
 [3D Platformers NZ](https://www.youtube.com/channel/UCVUOthK5dc3KZ5OT6FhkvOQ)
 
-[Discord](https://discord.gg/kUgjbqE)
+[Discord](https://discord.gg/crow64)
 
 [Reddit](https://www.reddit.com/r/CatastropheCrow/)
 
