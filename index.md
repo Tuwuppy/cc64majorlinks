@@ -21,4 +21,3 @@
 [crowtools](https://catastrophecrow.github.io/crowtools-web/)
 
 [Ulrich Aderman](https://twitter.com/AdermanUlrich)
-(could be a gamejacker)
