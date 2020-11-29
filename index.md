@@ -18,6 +18,6 @@
 
 [Reddit](https://www.reddit.com/r/CatastropheCrow/)
 
-[crowtools](https://catastrophecrow.github.io/crowtools-web/)
+will be replaced with a different translator soon tm
 
 [Ulrich Aderman](https://twitter.com/AdermanUlrich)
