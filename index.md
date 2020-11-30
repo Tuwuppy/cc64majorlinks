@@ -18,6 +18,6 @@
 
 [Reddit](https://www.reddit.com/r/CatastropheCrow/)
 
-will be replaced with a different translator soon tm
+[Crow Language Translator](https://lingojam.com/CrowLanguage)
 
 [Ulrich Aderman](https://twitter.com/AdermanUlrich)
