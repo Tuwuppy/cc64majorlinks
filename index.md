@@ -18,6 +18,6 @@
 
 [Reddit](https://www.reddit.com/r/CatastropheCrow/)
 
-[Crow Language Translator](https://lingojam.com/CrowLanguage)
+[Ciphers](https://aurathic.github.io/CrowCiphers/)
 
 [Ulrich Aderman](https://twitter.com/AdermanUlrich)
